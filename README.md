@@ -1,4 +1,4 @@
-# Lemon Data Challenge 🍋
+# Lemon Data Challenge 🍋📊
 
 Challenge técnico que consiste en averiguar el LTV de los usuarios a partir de 3 archivos .csv utilizando Spark y consultas de SQL.
 
